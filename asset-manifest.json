@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/carcar/static/css/main.c5bdecbb.chunk.css",
-    "main.js": "/carcar/static/js/main.499c8c11.chunk.js",
-    "main.js.map": "/carcar/static/js/main.499c8c11.chunk.js.map",
-    "runtime-main.js": "/carcar/static/js/runtime-main.293d57bb.js",
-    "runtime-main.js.map": "/carcar/static/js/runtime-main.293d57bb.js.map",
-    "static/js/2.ab983840.chunk.js": "/carcar/static/js/2.ab983840.chunk.js",
-    "static/js/2.ab983840.chunk.js.map": "/carcar/static/js/2.ab983840.chunk.js.map",
+    "main.js": "/carcar/static/js/main.e73f2670.chunk.js",
+    "main.js.map": "/carcar/static/js/main.e73f2670.chunk.js.map",
+    "runtime-main.js": "/carcar/static/js/runtime-main.04a8bdc4.js",
+    "runtime-main.js.map": "/carcar/static/js/runtime-main.04a8bdc4.js.map",
+    "static/js/2.241576bc.chunk.js": "/carcar/static/js/2.241576bc.chunk.js",
+    "static/js/2.241576bc.chunk.js.map": "/carcar/static/js/2.241576bc.chunk.js.map",
     "index.html": "/carcar/index.html",
-    "precache-manifest.f6e99617c2160f3e149ea841281f0437.js": "/carcar/precache-manifest.f6e99617c2160f3e149ea841281f0437.js",
+    "precache-manifest.e400e7a6c833781829966e4f4d61bf2c.js": "/carcar/precache-manifest.e400e7a6c833781829966e4f4d61bf2c.js",
     "service-worker.js": "/carcar/service-worker.js",
     "static/css/main.c5bdecbb.chunk.css.map": "/carcar/static/css/main.c5bdecbb.chunk.css.map",
-    "static/js/2.ab983840.chunk.js.LICENSE.txt": "/carcar/static/js/2.ab983840.chunk.js.LICENSE.txt"
+    "static/js/2.241576bc.chunk.js.LICENSE.txt": "/carcar/static/js/2.241576bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.293d57bb.js",
-    "static/js/2.ab983840.chunk.js",
+    "static/js/runtime-main.04a8bdc4.js",
+    "static/js/2.241576bc.chunk.js",
     "static/css/main.c5bdecbb.chunk.css",
-    "static/js/main.499c8c11.chunk.js"
+    "static/js/main.e73f2670.chunk.js"
   ]
 }
